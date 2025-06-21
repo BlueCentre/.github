@@ -1,4 +1,4 @@
-# Welcome to BlueCentre!Add commentMore actions
+# Welcome to BlueCentre!
 
 This is the official GitHub organization page for BlueCentre. We are dedicated to creating innovative open-source solutions.
 
