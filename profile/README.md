@@ -6,7 +6,8 @@ This is the official GitHub organization page for BlueCentre. We are dedicated t
 
 - **Name:** James H Nguyen
 - **Location:** Irvine, CA
-- **Blog:** [https://gh.ipv1337.dev](https://gh.ipv1337.dev)
+- **Blog:** [https://ipv1337.dev/#blog](https://ipv1337.dev/#blog)
+- **Page:** [https://ipv1337.dev](https://ipv1337.dev)
 - **Email:** [git@nocentre.net](mailto:git@nocentre.net)
 
 ## Our Most Active Projects
